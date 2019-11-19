@@ -23,7 +23,7 @@
 以上內容請以文件方式(word,txt,md)撰寫並存放在 /doc/ 中
 
 ### 階段二
-* 請至[github classroom]接受期中作業，並將完成的作業上傳到github classroom中
+* 請至[github classroom](https://classroom.github.com/a/uXyp77Wk)接受期中作業，並將完成的作業上傳到github classroom中
 * 請提供3~5張作業的截圖一併存放在 /doc/ 中
 * 繳交期限 2019/12/13 下午三點前
 * 2019/12/13日當天上午10點開始評量，評分方式由個人在座位上展示並說明，再由老師評分
